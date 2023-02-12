@@ -210,19 +210,31 @@ In this Challenge, you will learn how to protect Azure VM with Azure Site Recove
 
 ### Goal
 
-* 
+In challenge 4, you will successfully protect your on-premises servers with Microsoft Azure Backup Server (MABS). 
 
 ### Actions
 
-* 
+* Download and Install the Microsoft Azure Backup Server (MABS).
+* Add a Backup Storage to the Backup Server disk storage.
+* Set up the MABS protection agent on the Hyper-V server.
+* Create a Protection group.
 
 ### Success criteria
 
-* You successfully installed Azure backup Server in you on prem infrastructure and enabled it for two virtual machines 
+* You successfully installed Microsoft Azure Backup Server in you On-premises infrastructure.
+* You successfully registered your Hyper-V Server to the Microsoft Azure Backup Server. 
+* You successfully protected 2 On-premises Servers with Microsoft Azure Backup Server.
+* You successfully restored a VM of your choice.
 
 ### Learning resources
 
-* 
+* https://learn.microsoft.com/en-us/system-center/dpm/deploy-dpm-protection-agent?view=sc-dpm-2022
+* https://learn.microsoft.com/en-us/azure/backup/backup-azure-microsoft-azure-backup
+* https://learn.microsoft.com/en-us/azure/backup/back-up-hyper-v-virtual-machines-mabs
+* https://learn.microsoft.com/en-us/azure/backup/backup-mabs-protection-matrix
+* https://learn.microsoft.com/en-us/system-center/dpm/create-dpm-protection-groups?view=sc-dpm-2022
+* https://learn.microsoft.com/en-us/azure/backup/backup-azure-alternate-dpm-server
+
 
 ### Solution - Spoilerwarning
 
